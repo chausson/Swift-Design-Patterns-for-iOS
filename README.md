@@ -1,5 +1,4 @@
-# Swift-Design-Patterns-for-iOS
-Describe the book 23 kinds of design patterns base on Swift,The reference to Objective-C Design Patterns.
+# Swift 的23种设计模式
 
 描述和介绍用Swift实现23种设计模式的书籍，帮助大家提高自己的设计能力，一起巩固和提升Swift语言的知识，欢迎大家给出建议和发布自己的见解。
 
