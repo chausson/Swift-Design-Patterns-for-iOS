@@ -6,3 +6,6 @@
 * [1-序](https://github.com/chausson/Swift-Design-Patterns-for-iOS/blob/master/1-序/序.md)
 
 * [2-工厂模式](https://github.com/chausson/Swift-Design-Patterns-for-iOS/blob/master/2-工厂模式/工厂模式.md)
+
+* [2-适配器模式](https://github.com/chausson/Swift-Design-Patterns-for-iOS/blob/master/2-适配器模式/适配器模式.md)
+
