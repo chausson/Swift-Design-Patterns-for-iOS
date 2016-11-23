@@ -7,5 +7,8 @@
 
 * [2-工厂模式](https://github.com/chausson/Swift-Design-Patterns-for-iOS/blob/master/2-工厂模式/工厂模式.md)
 
-* [2-适配器模式](https://github.com/chausson/Swift-Design-Patterns-for-iOS/blob/master/2-适配器模式/适配器模式.md)
+* [3-适配器模式](https://github.com/chausson/Swift-Design-Patterns-for-iOS/blob/master/3-适配器模式/适配器模式.md)
+
+* [4-责任链模式](https://github.com/chausson/Swift-Design-Patterns-for-iOS/blob/master/4-责任链模式/责任链模式.md)
+
 
