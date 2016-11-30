@@ -55,3 +55,8 @@ class OilCanvasView: CanvasView {
     }
     
 }
+
+func main() {
+    let canvas:OilCanvasView =  OilCanvasView()
+    ApplyHandler().sale(canvas)
+}
